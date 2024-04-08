@@ -1,3 +1,7 @@
+### v1.0.2 (_2024-04-08_)
+
+- chore: simplify
+
 ### v1.0.1 (_2024-04-07_)
 
 - chore: improve package information

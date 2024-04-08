@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-rm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Rollup plugin for rm command at build start or end.",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
